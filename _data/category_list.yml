@@ -1,6 +1,7 @@
 #This file defines all the categories you are using
-
-
+# need to update all subcategory files
+# e.g. if category is 'using-subcategories' and category name is 'Using Subcategories'
+#see below the code for examples (so we don't have to scroll when we're writing code
 using-subcategories:
   name: IC-FOODS Community
   description: Learn about IC-FOODS Community here.
