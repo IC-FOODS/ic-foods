@@ -1,4 +1,7 @@
 #This file defines all the categories you are using
+# need to update all subcategory files
+# e.g. if category is 'using-subcategories' and category name is 'Using Subcategories'
+#see below the code for examples (so we don't have to scroll when we're writing code
 
 
 using-subcategories:
@@ -10,3 +13,31 @@ using-odin:
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
+
+# _data/subcategory_list.yml
+#   name: Subcategory One
+#   parent-category: using-subcategories
+#   parent-category-name: Using Subcategories
+#   parent-category: using-subcategories
+
+# subcategory-one.html
+# ---
+# layout: subcategory
+# category: using-subcategories
+# subcategory: subcategory-one
+# title: Subcategory One
+# ---
+
+# using-subcategories.html
+# ---
+# layout: category
+# category: using-subcategories
+# title: Using Subcategories
+# has-subcategories: true
+# ---
+
+# _data/category_list.yml
+# ---
+# using-subcategories:
+#   name: Using Subcategories
+# ---
