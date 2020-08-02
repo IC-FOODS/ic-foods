@@ -30,7 +30,7 @@ use_authors: true #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_name: IC-FOODS
 header: Building the Internet of Food
-subheader: IC-FOODS Community, Projects, and Processes
+subheader: Learn more about our Center, Community, Conferences, Plans, Projects, and Participation
 
 meta_image: odin-meta.png
 
@@ -53,12 +53,12 @@ nav_item_two_link: https://twitter.com/ic3foods
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to Odin Home
+nav_button: Return to IC-FOODS Home
 nav_button_link: https://ic-foods.github.io/ic-foods/
 
 # More Help
 help_one_title: IC-FOODS Bugs
-help_one_content: If you find any bugs or problems with this theme, please open an issue over on Github.
+help_one_content: If you find any bugs or problems with this site, please open an issue over on Github.
 help_one_button: Github
 help_one_link: https://github.com/IC-FOODS/ic-foods/issues
 
