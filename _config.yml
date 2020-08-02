@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: IC-FOODS - The International Center for Food Ontology Operability Data and Semantics
-description: IC-FOODS is building teh Internet of Food. We are a center, a community, and a conference (3C's) and knowledge base. \n We welcome individuals, groups , and corporations to join us in our efforts.
+description: IC-FOODS is building the Internet of Food. We are a center, a community, and a conference (3C's) and knowledge base. \n We welcome individuals, groups , and corporations to join us in our efforts.
 baseurl: /ic-foods # the subpath of your site, e.g. /support
 url: https://ic-foods.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
@@ -30,7 +30,7 @@ use_authors: true #Set this to false to disable showing post authors
 brand_logo: logo.png
 brand_name: IC-FOODS
 header: Building the Internet of Food
-subheader: Learn more about our Center, Community, Conferences, Plans, Projects, and Participation
+subheader: Learn more about our \nCenter, Community, Conferences, Plans, Projects, and Participation
 
 meta_image: odin-meta.png
 
@@ -43,7 +43,7 @@ linkedin_page:
 instagram_username: 
 
 
-# Navivation
+# Navigation
 nav_item_one: Github
 nav_item_one_link: https://github.com/IC-FOODS/ic-foods
 
